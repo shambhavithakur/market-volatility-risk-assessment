@@ -1,0 +1,51 @@
+# requirements.txt
+# Market Volatility Risk Assessment Engine
+# Path: /requirements.txt
+# Author: Shambhavi Thakur - Data Intelligence Professional
+
+# Core Data Processing
+pandas
+numpy
+scipy
+
+# API and Data Sources
+requests
+yfinance
+nsepy
+
+# Statistical Analysis
+scikit-learn
+statsmodels
+
+# Web Framework (for API endpoints)
+flask
+flask-cors
+gunicorn
+
+# AI Integration
+anthropic
+
+# Configuration Management
+python-dotenv
+pydantic
+
+# Date/Time Processing
+python-dateutil
+pytz
+
+# Data Visualization (for reports)
+matplotlib
+seaborn
+plotly
+
+# Cloud Integration
+google-cloud-storage
+google-cloud-bigquery
+
+# Financial Data APIs
+alpha-vantage
+quandl
+
+# Development Tools
+pytest
+black
