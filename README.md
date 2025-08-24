@@ -14,9 +14,7 @@ A production-ready system that transforms complex market data into clear busines
 
 ## 🚀 Live Demo
 
-- **Analysis Engine:** [market-risk.shambhavithakur.com](https://market-risk.shambhavithakur.com) *(Coming Soon)*
 - **Sample Reports:** [View Latest Analysis](./sample_analysis/)
-- **Portfolio Integration:** [projects.shambhavithakur.com](https://projects.shambhavithakur.com)
 
 ## 📊 What This System Does
 
