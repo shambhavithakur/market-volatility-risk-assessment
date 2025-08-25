@@ -20,17 +20,16 @@ A proven methodology that transforms market volatility into competitive advantag
 
 ## 📊 Case Study & Business Results
 
-- **Client Success Story:** [₹30 Lakh Equipment Decision Case Study](https://projects.shambhavithakur.com/case-studies/market-intelligence.html)
-- **LinkedIn Article:** [Market Intelligence That Delivers](https://www.linkedin.com/pulse/30-lakh-save-how-i-delivered-market-intelligence-48-hours-thakur-ytxee)
-- **Medium Analysis:** [How I Help Companies Save Millions](https://medium.com/@shambhavigthakur/how-i-help-companies-save-millions-through-strategic-market-intelligence-078731bbbc29)
+- **Client Success Story:** [₹30 Lakh Equipment Decision Case Study](https://projects.shambhavithakur.com/case-studies/market-intelligence)
+- **LinkedIn Article:** [Market Intelligence That Delivers](http://s.shambhavithakur.com/P7zsOH)
+- **Medium Analysis:** [How I Help Companies Save Millions](http://s.shambhavithakur.com/55q4In)
 - **GitHub Repository:** [Production-Ready System](https://github.com/shambhavithakur/market-volatility-risk-assessment)
-- **Kaggle Dataset:** [Business Intelligence Analysis](https://kaggle.com/datasets/shambhavithakur/market-volatility-business-intelligence
-)
+- **Kaggle Dataset:** [Business Intelligence Analysis](http://s.shambhavithakur.com/EJF3Qy)
 - **Strategic Intelligence Consultation:** [info@shambhavithakur.com](mailto:info@shambhavithakur.com)
 
 ## 📊 Sample Analysis Results
 
-### Current Market Status (Updated: August 24, 2025):
+### Current Market Status (Updated: August 25, 2025):
 - **Overall Market Volatility:** 6.8/10 (Moderate-High Risk)
 - **Technology Sector:** 7.2/10 (High Risk - Consider Delays)
 - **FMCG Sector:** 3.1/10 (Low Risk - Good for Investments)
@@ -143,16 +142,7 @@ git clone https://github.com/shambhavithakur/market-volatility-risk-assessment.g
 cd market-volatility-risk-assessment
 pip install -r requirements.txt
 python src/volatility_engine/main.py
-
-## 📊 Sample Analysis Results
-
-### Current Market Status (Updated Daily):
-- **Overall Market Volatility:** 6.8/10 (Moderate-High Risk)
-- **Technology Sector:** 7.2/10 (High Risk - Consider Delays)
-- **FMCG Sector:** 3.1/10 (Low Risk - Good for Investments)
-- **Banking Sector:** 5.9/10 (Moderate Risk - Proceed with Caution)
-
-*Last Updated: [Auto-updated timestamp]*
+```
 
 ## 💡 Business Intelligence Insights
 
