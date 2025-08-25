@@ -29,7 +29,8 @@ A proven methodology that transforms market volatility into competitive advantag
 
 ## 📊 Sample Analysis Results
 
-### Current Market Status (Updated: August 25, 2025):
+### Current Market Status (Updated: August 25, 2025)
+
 - **Overall Market Volatility:** 6.8/10 (Moderate-High Risk)
 - **Technology Sector:** 7.2/10 (High Risk - Consider Delays)
 - **FMCG Sector:** 3.1/10 (Low Risk - Good for Investments)
@@ -39,12 +40,14 @@ A proven methodology that transforms market volatility into competitive advantag
 
 ## 📊 What This System Does
 
-### For Business Leaders:
+### For Business Leaders
+
 - **Risk Score (1-10):** Simple volatility assessment for decision timing
 - **Business Impact Analysis:** How market conditions affect your industry
 - **Decision Recommendations:** When to proceed, delay, or hedge major business moves
 
-### For Investors:
+### For Investors
+
 - **Portfolio Risk Assessment:** Volatility impact on investment positions
 - **Sector Analysis:** Which sectors are most/least volatile currently
 - **Entry/Exit Timing:** Optimal timing based on volatility patterns
@@ -63,7 +66,7 @@ market-volatility-risk-assessment/
 └── deployment/               # Cloud deployment configs
 ```
 
-### Key Components:
+### Key Components
 
 1. **Data Integration Layer**
    - NSE/BSE market data
@@ -86,16 +89,19 @@ market-volatility-risk-assessment/
 ## 💼 Business Applications
 
 ### Use Case 1: Major Purchase Decisions
+
 **Scenario:** Company planning ₹50L equipment purchase  
 **Analysis:** Current market volatility suggests 15% price reduction likely in 60 days  
 **Recommendation:** Delay purchase, save ₹7.5L  
 
 ### Use Case 2: Investment Portfolio Review
+
 **Scenario:** Investor with ₹25L portfolio during high volatility  
 **Analysis:** Current volatility 8.2/10, historical data shows 20% downside risk  
 **Recommendation:** Hedge 40% of positions, potential loss prevention: ₹2L  
 
 ### Use Case 3: Business Expansion Timing
+
 **Scenario:** SME planning new location launch  
 **Analysis:** Sector volatility at 2-year high, customer spending uncertainty  
 **Recommendation:** Wait 90 days for stability, reduce risk by 35%  
@@ -110,19 +116,22 @@ market-volatility-risk-assessment/
 
 ## 🛠️ Technology Stack
 
-**Backend Intelligence:**
+### Backend Intelligence
+
 - Python 3.12+ (pandas, numpy, scikit-learn)
 - Claude Sonnet 4 API for advanced analysis
 - Flask/FastAPI for REST services
 - PostgreSQL for time-series data
 
-**Data Sources:**
+### Data Sources
+
 - NSE/BSE APIs (real-time market data)
 - RBI APIs (economic indicators)
 - News APIs (sentiment analysis)
 - Global market feeds
 
-**Deployment:**
+## Deployment
+
 - Google Cloud Run (serverless scaling)
 - BigQuery (data warehousing)
 - Cloud Storage (historical data)
@@ -130,13 +139,14 @@ market-volatility-risk-assessment/
 
 ## 🚀 Quick Start
 
-### For Business Leaders:
-**Contact for Strategic Intelligence Analysis:**
+### For Business Partnerships
+
 - Email: [info@shambhavithakur.com](mailto:info@shambhavithakur.com)
 - Portfolio: [projects.shambhavithakur.com](https://projects.shambhavithakur.com)
 - Case Study: [View ₹30L Equipment Decision Results](https://projects.shambhavithakur.com/case-studies/market-intelligence)
 
-### For Technical Review:
+### For Technical Review
+
 ```bash
 git clone https://github.com/shambhavithakur/market-volatility-risk-assessment.git
 cd market-volatility-risk-assessment
@@ -146,7 +156,8 @@ python src/volatility_engine/main.py
 
 ## 💡 Business Intelligence Insights
 
-### Key Patterns Discovered:
+### Key Patterns Discovered
+
 1. **Volatility Clustering:** High volatility periods last average 45 days
 2. **Sector Rotation:** Technology leads volatility by 5-7 days
 3. **Economic Correlation:** RBI policy announcements increase volatility 23%
@@ -169,7 +180,7 @@ python src/volatility_engine/main.py
 - **Training & Support:** Team training on risk-based decision making
 - **Ongoing Intelligence:** Monthly risk assessment reports
 
-**Contact:** info@shambhavithakur.com | **Portfolio:** [shambhavithakur.com](https://shambhavithakur.com)
+**Contact:** [info@shambhavithakur.com](mailto:info@shambhavithakur.com) | **Portfolio:** [projects.shambhavithakur.com](https://projects.shambhavithakur.com)
 
 ## 🔒 Enterprise Features
 
@@ -182,11 +193,13 @@ python src/volatility_engine/main.py
 ## 📋 System Requirements
 
 **Minimum:**
+
 - Python 3.12+
 - 4GB RAM
 - Internet connection for real-time data
 
 **Recommended:**
+
 - 8GB+ RAM for historical analysis
 - SSD storage for faster processing
 - Cloud deployment for 24/7 availability
