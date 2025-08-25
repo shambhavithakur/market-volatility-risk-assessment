@@ -21,10 +21,10 @@ A proven methodology that transforms market volatility into competitive advantag
 ## 📊 Case Study & Business Results
 
 - **Client Success Story:** [₹30 Lakh Equipment Decision Case Study](https://projects.shambhavithakur.com/case-studies/market-intelligence)
-- **LinkedIn Article:** [Market Intelligence That Delivers](http://s.shambhavithakur.com/P7zsOH)
-- **Medium Analysis:** [How I Help Companies Save Millions](http://s.shambhavithakur.com/55q4In)
+- **LinkedIn Article:** [Market Intelligence That Delivers](https://www.linkedin.com/pulse/30-lakh-save-how-i-delivered-market-intelligence-48-hours-thakur-ytxee)
+- **Medium Analysis:** [How I Help Companies Save Millions](https://medium.com/@shambhavigthakur/how-i-help-companies-save-millions-through-strategic-market-intelligence-078731bbbc29)
 - **GitHub Repository:** [Production-Ready System](https://github.com/shambhavithakur/market-volatility-risk-assessment)
-- **Kaggle Dataset:** [Business Intelligence Analysis](http://s.shambhavithakur.com/EJF3Qy)
+- **Kaggle Dataset:** [Business Intelligence Analysis](https://kaggle.com/datasets/shambhavithakur/market-volatility-business-intelligence)
 - **Strategic Intelligence Consultation:** [info@shambhavithakur.com](mailto:info@shambhavithakur.com)
 
 ## 📊 Sample Analysis Results
